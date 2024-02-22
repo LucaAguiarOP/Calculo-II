@@ -1,3 +1,3 @@
-# hugochato
+# Calculo II
 
-A new Flutter project.
+Projeto feito para demonstrar o gráfico de funções e mostrar como calcular a area em determinado intervalo.
